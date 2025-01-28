@@ -2,7 +2,7 @@
 	"$schema": "https://www.raycast.com/schemas/extension.json",
 	"name": "justd",
 	"title": "Justd",
-	"description": "",
+	"description": "An Raycast extensions for Justd",
 	"icon": "icon.svg",
 	"author": "Makisuo",
 	"owner": "justd",
