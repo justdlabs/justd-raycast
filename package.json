@@ -5,7 +5,6 @@
 	"description": "An Raycast extensions for Justd",
 	"icon": "icon.png",
 	"author": "Makisuo",
-	"owner": "justd",
 	"license": "MIT",
 	"categories": ["Design Tools", "Web", "Documentation"],
 	"commands": [
